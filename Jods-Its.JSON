@@ -6,7 +6,7 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "Jods' Camping Tools",
 			"displayName": "Jods' Camping Tools",
 			"author": "Jods-Its",
@@ -15,7 +15,7 @@
 			"updated": "2023-04-24",
 			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/Modding/Camping_tools.modcomponent",
 			"modURL": "https://github.com/Jods-Its/Jods-Camping-Tools",
-			"description": "A mod for TLD that adds tools for outdoors adventures.",
+			"description": "A mod that adds tools for outdoors adventures.",
 			"tags": "",
 			"categories": [
 				"Gear Items"
