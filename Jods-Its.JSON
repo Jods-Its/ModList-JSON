@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.1.0",
 			"name": "Jods' Camping Tools",
 			"displayName": "Jods' Camping Tools",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-24",
-			"updated": "2023-04-24",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/Modding/Camping_tools.modcomponent",
+			"updated": "2023-04-25",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/1.1.0/Camping_tools.modcomponent",
 			"modURL": "https://github.com/Jods-Its/Jods-Camping-Tools",
 			"description": "A mod that adds tools for outdoors adventures.",
 			"tags": "",
@@ -37,7 +37,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Additions: 2 Craftable tents/ 3 New tools/ 1 New material/ 1 New clothing item/ 6 New research books/ 5 Collectible maps.",
+				"patchnotes": "Research books bug fixed",
 				"notes": "Drop file in mods folder.",
 				"issues": ""
 			},
