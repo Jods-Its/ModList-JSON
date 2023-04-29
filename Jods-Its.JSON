@@ -50,6 +50,54 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Jods' Indoors Greenery",
+			"displayName": "Jods' Indoors Greenery",
+			"author": "Jods-Its",
+			"previousAuthors": "",
+			"released": "2023-04-30",
+			"updated": "2023-04-30",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/1.0.0/Indoors_Greenery.modcomponent",
+			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
+			"description": "A mod that adds simple farming mechanics.",
+			"tags": "",
+			"categories": [
+				"Gear Items".
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla", 
+				"tftft"
+			],
+			"images": [
+				"https://imgur.com/EiWSGHx.jpeg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Base content added.",
+				"notes": "Drop file in mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
