@@ -53,14 +53,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.0",
+			"version": "2.1.0",
 			"name": "Jods' Indoors Greenery",
 			"displayName": "Jods' Indoors Greenery",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-30",
 			"updated": "2023-05-09",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/V.2.0.0/Indoors_Greenery.modcomponent",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/2.1.0/Indoors_Greenery.modcomponent",
 			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
 			"description": "A mod that adds simple farming mechanics.",
 			"tags": "",
@@ -85,7 +85,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added: Humid planter/ 3 custom plants and their seeds / Homemade jam and tea / 3 materials for humid planter creation.",
+				"patchnotes": "Added: Charcoal filter. Adjusted: Rose hip planter models.",
 				"notes": "Drop file in mods folder.",
 				"issues": ""
 			},
