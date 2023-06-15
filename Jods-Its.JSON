@@ -98,6 +98,54 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Bountiful Foraging",
+			"displayName": "Bountiful Foraging",
+			"author": "Jods-Its",
+			"previousAuthors": "",
+			"released": "2023-06-15",
+			"updated": "2023-06-15",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/V.1.0.0/Bountiful_Foraging.rar",
+			"modURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging",
+			"description": "A mod that adds new ways to find food and useful materials in the wild.",
+			"tags": "",
+			"categories": [
+				"Gear Items",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla", 
+				"tftft"
+			],
+			"images": [
+				"https://github.com/Jods-Its/Jods-Bountiful-Foraging/blob/main/IMGS/BFCover.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Added: Fir cones, bee hives, dead orcas, dead crows, bird eggs and nests, rock salt and salting behaviour.",
+				"notes": "Unzip the .rar, drop contents in mod folder. Available CandleLight version."",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
