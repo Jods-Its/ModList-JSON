@@ -135,7 +135,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "Added: Fir cones, bee hives, dead orcas, dead crows, bird eggs and nests, rock salt and salting behaviour.",
-				"notes": "Unzip the .rar, drop contents in mod folder. Available CandleLight version.",
+				"notes": "Unzip the .zip, drop contents in mod folder. Available CandleLight version.",
 				"issues": ""
 			},
 			"testedon": {
@@ -184,6 +184,54 @@
 				"beta": false,
 				"patchnotes": "Updated to post DLC update. New crafting icons.",
 				"notes": "Drop file in mods folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.6.0",
+			"name": "Fire Pack DLC",
+			"displayName": "Fire Pack DLC",
+			"author": "Jods-Its",
+			"previousAuthors": "ds5678, WulfMarius",
+			"released": "2023-06-19",
+			"updated": "2023-06-19",
+			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.0/FirePack.zip",
+			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
+			"description": "A mod that adds new tools for starting fires. Original by ds5678 and WulfMarius.",
+			"tags": "",
+			"categories": [
+				"Gear Items",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla", 
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/NxKjE7P.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Rebuilt and updated to post DLC update. New crafting icons. Adjusted textures, models and sounds. New Spanish localization.",
+				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
