@@ -198,14 +198,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.6.0",
+			"version": "2.6.1",
 			"name": "Fire Pack DLC",
 			"displayName": "Fire Pack DLC",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
-			"updated": "2023-06-19",
-			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.0/FirePack.zip",
+			"updated": "2023-06-20",
+			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.1/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
 			"description": "A mod that adds new tools for starting fires. Original by ds5678 and WulfMarius.",
 			"tags": "",
@@ -230,7 +230,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Rebuilt and updated to post DLC update. New crafting icons. Adjusted textures, models and sounds. New Spanish localization.",
+				"patchnotes": "Cleaning happened.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
