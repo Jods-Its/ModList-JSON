@@ -35,7 +35,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added: Improvised Striker/ Metal lighter(Beta)/ Tanning rack(Beta). Adjusted: Spawn points/Tents.",
 				"notes": "Drop file in mods folder.",
@@ -83,7 +83,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added: Charcoal filter. Adjusted: Rose hip planter models.",
 				"notes": "Drop file in mods folder.",
@@ -132,7 +132,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added: Fir cones, bee hives, dead orcas, dead crows, bird eggs and nests, rock salt and salting behaviour.",
 				"notes": "Unzip the .zip, drop contents in mod folder. Available CandleLight version.",
@@ -180,7 +180,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Updated to post DLC update. New crafting icons.",
 				"notes": "Drop file in mods folder.",
@@ -228,7 +228,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Cleaning happened.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
@@ -275,7 +275,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Completely remade MC file, updated to post-DLC TLD.",
 				"notes": "Unzip the .zip, drop contents in mods folder.",
