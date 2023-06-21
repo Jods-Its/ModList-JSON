@@ -15,7 +15,7 @@
 			"updated": "2023-05-03",
 			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/2.0.1/Camping_tools.modcomponent",
 			"modURL": "https://github.com/Jods-Its/Jods-Camping-Tools",
-			"description": "A mod that adds tools for outdoors adventures.",
+			"description": "Tools for outdoors adventures.",
 			"tags": "",
 			"categories": [
 				"Gear Items"
@@ -62,7 +62,7 @@
 			"updated": "2023-05-25",
 			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/2.1.0/Indoors_Greenery.modcomponent",
 			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
-			"description": "A mod that adds simple farming mechanics.",
+			"description": "Make your own indoor farm and regrow plants.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -110,7 +110,7 @@
 			"updated": "2023-06-15",
 			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/V.1.0.0/Bountiful_Foraging.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging",
-			"description": "A mod that adds new ways to find food and useful materials in the wild.",
+			"description": "Find food and useful materials in the wild.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -159,7 +159,7 @@
 			"updated": "2023-06-15",
 			"downloadURL": "https://github.com/Jods-Its/Forge-Blueprints-DLC/releases/download/V.1.6.0/ForgeBlueprints.modcomponent",
 			"modURL": "https://github.com/Jods-Its/Forge-Blueprints-DLC",
-			"description": "A mod that adds some blueprints to the forge. Original by ds5678.",
+			"description": "More blueprints in the forge. Original by ds5678.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -207,7 +207,7 @@
 			"updated": "2023-06-20",
 			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.1/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
-			"description": "A mod that adds new tools for starting fires. Original by ds5678 and WulfMarius.",
+			"description": "New renewable tools for starting fires. Original by ds5678 and WulfMarius.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -232,6 +232,53 @@
 				"beta": false,
 				"patchnotes": "Cleaning happened.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.4.0",
+			"name": "CozyBlankets",
+			"displayName": "CozyBlankets",
+			"author": "Jods-Its",
+			"previousAuthors": "ds5678",
+			"released": "2023-06-21",
+			"updated": "2023-06-21",
+			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.0/CozyBlankets.zip",
+			"modURL": "https://github.com/Jods-Its/CozyBlankets",
+			"description": "Keep you warmer in thos cold, winter nights. Original by ds5678.",
+			"tags": "",
+			"categories": [
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla", 
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/nGMeJ68.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Completely remade MC file, updated to post-DLC TLD.",
+				"notes": "Unzip the .zip, drop contents in mods folder.",
 				"issues": ""
 			},
 			"testedon": {
