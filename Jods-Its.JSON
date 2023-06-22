@@ -180,7 +180,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "Updated to post DLC update. New crafting icons.",
 				"notes": "Drop file in mods folder.",
