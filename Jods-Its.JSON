@@ -35,7 +35,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "Added: Improvised Striker/ Metal lighter(Beta)/ Tanning rack(Beta). Adjusted: Spawn points/Tents.",
 				"notes": "Drop file in mods folder.",
@@ -275,7 +275,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "Completely remade MC file, updated to post-DLC TLD.",
 				"notes": "Unzip the .zip, drop contents in mods folder.",
