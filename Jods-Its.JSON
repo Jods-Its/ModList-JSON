@@ -187,7 +187,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.16",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -198,14 +198,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.6.1",
+			"version": "2.6.2",
 			"name": "Fire Pack DLC",
 			"displayName": "Fire Pack DLC",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
-			"updated": "2023-06-20",
-			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.1/FirePack.zip",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.2/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
 			"description": "New renewable tools for starting fires. Original by ds5678 and WulfMarius.",
 			"tags": "",
@@ -228,9 +228,9 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
-				"patchnotes": "Cleaning happened.",
+				"patchnotes": "Updated to TLD 2.17.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
