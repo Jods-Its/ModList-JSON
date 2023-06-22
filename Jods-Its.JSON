@@ -83,7 +83,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "Added: Charcoal filter. Adjusted: Rose hip planter models.",
 				"notes": "Drop file in mods folder.",
