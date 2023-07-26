@@ -55,14 +55,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.1",
+			"version": "2.2.0",
 			"name": "Camping Tools",
 			"displayName": "Camping Tools",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-24",
-			"updated": "2023-05-03",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/2.0.1/Camping_tools.modcomponent",
+			"updated": "2023-07-27",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/V.2.2.0/CampingTools.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Camping-Tools",
 			"description": "Tools for outdoors adventures.",
 			"tags": "",
@@ -81,13 +81,15 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions"
+				"CraftingRevisions",
+				"Modders' Gear Toolbox",
+				"Examine Actions API"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added: Improvised Striker/ Metal lighter(Beta)/ Tanning rack(Beta). Adjusted: Spawn points/Tents.",
-				"notes": "Drop file in mods folder.",
+				"patchnotes": "Tanning rack no longer in beta, functional maps, removed improvised firestriker. Adjustments and fixes.",
+				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
