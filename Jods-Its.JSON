@@ -6,6 +6,55 @@
 	"mods": [
 		{
 			"type": "mod",
+			"version": "1.0.0",
+			"name": "A Handy Toolbox",
+			"displayName": "Modders' Gear Toolbox",
+			"author": "Jods-Its",
+			"previousAuthors": "",
+			"released": "2023-07-27",
+			"updated": "2023-07-27",
+			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.0/ModdersGearToolbox.zip",
+			"modURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox",
+			"description": "This mod aims to help other modders by adding "generic" materials and tools for them to use in their mods. ",
+			"tags": "",
+			"categories": [
+				"Gear Items",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla", 
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/lx0Eg6C.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "First Release.",
+				"notes": "Unzip the .zip, drop contents in mod folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "2.0.1",
 			"name": "Camping Tools",
 			"displayName": "Camping Tools",
