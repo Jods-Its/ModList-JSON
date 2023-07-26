@@ -44,7 +44,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -93,7 +93,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -104,14 +104,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.1.0",
+			"version": "3.0.0",
 			"name": "Indoors Greenery",
 			"displayName": "Indoors Greenery",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-30",
-			"updated": "2023-05-25",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/2.1.0/Indoors_Greenery.modcomponent",
+			"updated": "2023-07-27",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/V.3.0.0/IndoorsGreenery_NoDLC.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
 			"description": "Make your own indoor farm and regrow plants.",
 			"tags": "",
@@ -124,24 +124,25 @@
 				"tftft"
 			],
 			"images": [
-				"https://imgur.com/EiWSGHx.jpeg"
+				"https://i.imgur.com/2iV3qmL.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions"
+				"CraftingRevisions",
+				"Modders' Gear Toolbox"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added: Charcoal filter. Adjusted: Rose hip planter models.",
+				"patchnotes": "Completely revamped gardening mechanics.",
 				"notes": "Drop file in mods folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -190,7 +191,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -238,7 +239,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -286,7 +287,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -333,7 +334,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
