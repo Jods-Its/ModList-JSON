@@ -138,7 +138,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "Completely revamped gardening mechanics.",
-				"notes": "Drop file in mods folder.",
+				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
@@ -250,14 +250,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.6.2",
+			"version": "2.7.0",
 			"name": "Fire Pack DLC",
 			"displayName": "Fire Pack DLC",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
-			"updated": "2023-06-22",
-			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.6.2/FirePack.zip",
+			"updated": "2023-07-27",
+			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.7.0/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
 			"description": "New renewable tools for starting fires. Original by ds5678 and WulfMarius.",
 			"tags": "",
@@ -277,12 +277,13 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions"
+				"CraftingRevisions",
+				"Modders' Gear Toolbox"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Updated to TLD 2.17.",
+				"patchnotes": "Added Improvised firestriker.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
