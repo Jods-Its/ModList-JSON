@@ -13,9 +13,9 @@
 			"previousAuthors": "",
 			"released": "2023-07-27",
 			"updated": "2023-07-27",
-			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.0/ModdersGearToolbox.zip",
+			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.1/ModdersGearToolbox.zip",
 			"modURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox",
-			"description": "This mod aims to help other modders by adding 'generic' materials and tools for them to use in their mods. ",
+			"description": "This mod aims to help other modders by adding 'generic' materials and tools for them to use in their mods. Full list of items in the GitHub repo.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -39,7 +39,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "First Release.",
+				"patchnotes": "Re-enabled reclaimed glass and processed plastic.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
