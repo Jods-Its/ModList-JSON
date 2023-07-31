@@ -299,14 +299,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.4.1",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678",
 			"released": "2023-06-21",
-			"updated": "2023-06-21",
-			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.0/CozyBlankets.zip",
+			"updated": "2023-07-31",
+			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.1/CozyBlankets.zip",
 			"modURL": "https://github.com/Jods-Its/CozyBlankets",
 			"description": "Keep you warmer in those cold, winter nights. Original by ds5678.",
 			"tags": "",
@@ -330,7 +330,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Completely remade MC file, updated to post-DLC TLD.",
+				"patchnotes": "Added Turkish localization.",
 				"notes": "Unzip the .zip, drop contents in mods folder.",
 				"issues": ""
 			},
