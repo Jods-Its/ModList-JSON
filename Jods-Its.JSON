@@ -104,14 +104,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.0.0",
+			"version": "3.1.0",
 			"name": "Indoors Greenery",
 			"displayName": "Indoors Greenery",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-30",
-			"updated": "2023-07-27",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/V.3.0.0/IndoorsGreenery_NoDLC.zip",
+			"updated": "2023-10-08",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/V.3.1.0/IndoorsGreenery.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
 			"description": "Make your own indoor farm and regrow plants.",
 			"tags": "",
@@ -137,7 +137,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Completely revamped gardening mechanics.",
+				"patchnotes": "Added recipes, dlc planters, German localization, Turkish localization and Russian localization.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
