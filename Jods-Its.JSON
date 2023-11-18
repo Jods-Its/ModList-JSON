@@ -344,5 +344,48 @@
 			},
 			"aliases": []
 		}
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "TLD save tools",
+			"displayName": "TLD save tools",
+			"author": "TacticalEx",
+			"previousAuthors": "",
+			"released": "2023-11-18",
+			"updated": "2023-11-18",
+			"downloadURL": "https://gitlab.com/TacticalEx/tld-tools/-/archive/v2.0.0/tld-tools-v2.0.0.zip",
+			"modURL": "https://gitlab.com/TacticalEx/tld-tools",
+			"description": "Simple tools for managing game saves for The Long Dark. Note: this is an external tool, not a mod.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla", 
+				"tftft"
+			],
+			"images": [
+				""
+			],
+			"dependencies": [
+				""
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
 	]
 }
