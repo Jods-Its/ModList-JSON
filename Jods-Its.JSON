@@ -135,7 +135,7 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added recipes, dlc planters, German localization, Turkish localization and Russian localization.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
