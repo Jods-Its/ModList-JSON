@@ -37,7 +37,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "minor bugfixing.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
@@ -86,7 +86,7 @@
 				"ExamineActionsAPI"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Tanning rack no longer in beta, functional maps, removed improvised firestriker. Adjustments and fixes.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
@@ -135,7 +135,7 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added recipes, dlc planters, German localization, Turkish localization and Russian localization.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
@@ -184,7 +184,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Fixed various bugs, new Turkish localization.",
 				"notes": "Unzip the .zip, drop contents in mod folder. Available CandleLight version.",
@@ -232,7 +232,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Updated to post DLC update. New crafting icons.",
 				"notes": "Drop file in mods folder.",
@@ -281,7 +281,7 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added Improvised firestriker.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
@@ -328,7 +328,7 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Added Turkish localization.",
 				"notes": "Unzip the .zip, drop contents in mods folder.",
