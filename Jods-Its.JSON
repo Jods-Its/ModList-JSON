@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "Modders' Gear Toolbox",
 			"displayName": "Modders' Gear Toolbox",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-07-27",
-			"updated": "2023-10-20",
-			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.2/ModdersGearToolbox.zip",
+			"updated": "2024-06-26",
+			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.3/ModdersGearToolbox.zip",
 			"modURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox",
 			"description": "This mod aims to help other modders by adding 'generic' materials and tools for them to use in their mods. Full list of items in the GitHub repo.",
 			"tags": "",
@@ -37,14 +37,14 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
-				"patchnotes": "minor bugfixing.",
+				"patchnotes": "minor bugfixing. Added Russian, Turkish, Italian and French localizations",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.29",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
