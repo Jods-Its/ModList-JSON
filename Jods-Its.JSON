@@ -55,14 +55,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.0",
+			"version": "2.2.1",
 			"name": "Camping Tools",
 			"displayName": "Camping Tools",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-24",
-			"updated": "2023-07-27",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/V.2.2.0/CampingTools.zip",
+			"updated": "2024-06-27",
+			"downloadURL": https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/V.2.2.1/CampingTools.zip,
 			"modURL": "https://github.com/Jods-Its/Jods-Camping-Tools",
 			"description": "Tools for outdoors adventures.",
 			"tags": "",
@@ -86,9 +86,9 @@
 				"ExamineActionsAPI"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
-				"patchnotes": "Tanning rack no longer in beta, functional maps, removed improvised firestriker. Adjustments and fixes.",
+				"patchnotes": "Added turkish, russian and italian localizations. Adjustments and fixes.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
