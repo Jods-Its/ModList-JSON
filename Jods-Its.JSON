@@ -256,7 +256,7 @@
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
-			"updated": "2023-06-28",
+			"updated": "2024-06-28",
 			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.7.1/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
 			"description": "New renewable tools for starting fires. Original by ds5678 and WulfMarius.",
@@ -305,7 +305,7 @@
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678",
 			"released": "2023-06-21",
-			"updated": "2023-06-28",
+			"updated": "2024-06-28",
 			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.2/CozyBlankets.zip",
 			"modURL": "https://github.com/Jods-Its/CozyBlankets",
 			"description": "Keep you warmer in those cold, winter nights. Original by ds5678.",
@@ -335,7 +335,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.29",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
