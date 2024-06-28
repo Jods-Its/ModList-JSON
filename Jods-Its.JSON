@@ -232,14 +232,14 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "Updated to post DLC update. New crafting icons.",
 				"notes": "Drop file in mods folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.29",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -250,14 +250,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.7.0",
+			"version": "2.7.1",
 			"name": "Fire Pack DLC",
 			"displayName": "Fire Pack DLC",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
-			"updated": "2023-07-27",
-			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.7.0/FirePack.zip",
+			"updated": "2023-06-28",
+			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.7.1/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
 			"description": "New renewable tools for starting fires. Original by ds5678 and WulfMarius.",
 			"tags": "",
@@ -281,14 +281,14 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
-				"patchnotes": "Added Improvised firestriker.",
+				"patchnotes": "Added French and Turkish localizations. Updated bowdrill. Updated Russian and Italian localizations. Bug fixes.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.29",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -299,14 +299,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.1",
+			"version": "1.4.2",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678",
 			"released": "2023-06-21",
-			"updated": "2023-07-31",
-			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.1/CozyBlankets.zip",
+			"updated": "2023-06-28",
+			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.2/CozyBlankets.zip",
 			"modURL": "https://github.com/Jods-Its/CozyBlankets",
 			"description": "Keep you warmer in those cold, winter nights. Original by ds5678.",
 			"tags": "",
@@ -328,9 +328,9 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
-				"patchnotes": "Added Turkish localization.",
+				"patchnotes": "Added Turkish, Russian and Italian localizations. Bug fixes.",
 				"notes": "Unzip the .zip, drop contents in mods folder.",
 				"issues": ""
 			},
