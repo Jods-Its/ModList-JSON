@@ -12,8 +12,8 @@
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-07-27",
-			"updated": "2024-06-26",
-			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.3/ModdersGearToolbox.zip",
+			"updated": "2025-08-01",
+			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.3FIX/ModdersGearToolbox.zip",
 			"modURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox",
 			"description": "This mod aims to help other modders by adding 'generic' materials and tools for them to use in their mods. Full list of items in the GitHub repo.",
 			"tags": "",
@@ -39,13 +39,13 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "minor bugfixing. Added Russian, Turkish, Italian and French localizations",
+				"patchnotes": "Updated to latest version.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
-				"mlversion": "0.6.1"
+				"tldversion": "2.42",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
