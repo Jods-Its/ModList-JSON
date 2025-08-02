@@ -239,8 +239,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
-				"mlversion": "0.6.1"
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
@@ -288,8 +288,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
-				"mlversion": "0.6.1"
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
@@ -299,14 +299,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.2",
+			"version": "1.4.3",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678",
 			"released": "2023-06-21",
-			"updated": "2024-06-28",
-			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.2/CozyBlankets.zip",
+			"updated": "2025-08-02",
+			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.3/CozyBlankets.zip",
 			"modURL": "https://github.com/Jods-Its/CozyBlankets",
 			"description": "Keep you warmer in those cold, winter nights. Original by ds5678.",
 			"tags": "",
@@ -330,13 +330,13 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added Turkish, Russian and Italian localizations. Bug fixes.",
+				"patchnotes": "Fixed for last version.",
 				"notes": "Unzip the .zip, drop contents in mods folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
-				"mlversion": "0.6.1"
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
