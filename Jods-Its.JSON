@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"name": "Modders' Gear Toolbox",
 			"displayName": "Modders' Gear Toolbox",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-07-27",
-			"updated": "2025-08-01",
-			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.3FIX/ModdersGearToolbox.zip",
+			"updated": "2025-09-05",
+			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.4/ModdersGearToolbox.zip",
 			"modURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox",
 			"description": "This mod aims to help other modders by adding 'generic' materials and tools for them to use in their mods. Full list of items in the GitHub repo.",
 			"tags": "",
