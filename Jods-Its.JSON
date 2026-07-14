@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"name": "Modders' Gear Toolbox",
 			"displayName": "Modders' Gear Toolbox",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-07-27",
-			"updated": "2025-09-05",
-			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/V.1.0.4/ModdersGearToolbox.zip",
+			"updated": "2026-07-14",
+			"downloadURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/download/v1.0.5/ModdersGearToolbox.zip",
 			"modURL": "https://github.com/Jods-Its/Modders-Gear-Toolbox",
 			"description": "This mod aims to help other modders by adding 'generic' materials and tools for them to use in their mods. Full list of items in the GitHub repo.",
 			"tags": "",
@@ -31,10 +31,7 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
@@ -44,8 +41,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
