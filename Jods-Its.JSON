@@ -101,14 +101,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.1.1",
+			"version": "3.1.2",
 			"name": "Indoors Greenery",
 			"displayName": "Indoors Greenery",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-30",
-			"updated": "2025-08-01",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/V.3.1.1/IndoorsGreenery.zip",
+			"updated": "2026-07-15",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/v.3.1.2/IndoorsGreenery.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
 			"description": "Make your own indoor farm and regrow plants.",
 			"tags": "",
@@ -126,9 +126,6 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions",
 				"Modders' Gear Toolbox"
 			],
 			"status": {
@@ -139,8 +136,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
