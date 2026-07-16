@@ -245,14 +245,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.7.1",
+			"version": "2.7.2",
 			"name": "Fire Pack DLC",
 			"displayName": "Fire Pack DLC",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
-			"updated": "2024-06-28",
-			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/V.2.7.1/FirePack.zip",
+			"updated": "2026-07-16",
+			"downloadURL": "https://github.com/Jods-Its/Fire-Pack-DLC/releases/download/v.2.7.2/FirePack.zip",
 			"modURL": "https://github.com/Jods-Its/Fire-Pack-DLC",
 			"description": "New renewable tools for starting fires. Original by ds5678 and WulfMarius.",
 			"tags": "",
@@ -270,21 +270,18 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions",
 				"Modders' Gear Toolbox"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added French and Turkish localizations. Updated bowdrill. Updated Russian and Italian localizations. Bug fixes.",
+				"patchnotes": "Updated for latest version.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -294,14 +291,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.3",
+			"version": "1.4.4",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678",
 			"released": "2023-06-21",
-			"updated": "2025-08-02",
-			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/V.1.4.3/CozyBlankets.zip",
+			"updated": "2026-07-16",
+			"downloadURL": "https://github.com/Jods-Its/CozyBlankets/releases/download/v.1.4.4/CozyBlankets.zip",
 			"modURL": "https://github.com/Jods-Its/CozyBlankets",
 			"description": "Keep you warmer in those cold, winter nights. Original by ds5678.",
 			"tags": "",
@@ -318,8 +315,6 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
 				"CraftingRevisions"
 			],
 			"status": {
@@ -330,8 +325,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
