@@ -147,14 +147,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "Bountiful Foraging",
 			"displayName": "Bountiful Foraging",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-06-15",
-			"updated": "2025-09-20",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/V.1.2.2/BountifulForaging.zip",
+			"updated": "2026-07-16",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/v.1.2.3/BountifulForaging.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging",
 			"description": "Find food and useful materials in the wild.",
 			"tags": "",
@@ -173,21 +173,18 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions",
 				"Modders' Gear Toolbox"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "A lot of stuff. Check changelog on the repo.",
+				"patchnotes": "Updated for latest version.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -234,8 +231,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
