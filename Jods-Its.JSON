@@ -52,14 +52,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.1",
+			"version": "2.2.2",
 			"name": "Camping Tools",
 			"displayName": "Camping Tools",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-04-24",
-			"updated": "2025-08-01",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/V.2.2.1FIX/CampingTools.zip",
+			"updated": "2026-07-18",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Camping-Tools/releases/download/v.2.2.2/CampingTools.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Camping-Tools",
 			"description": "Tools for outdoors adventures.",
 			"tags": "",
@@ -76,9 +76,6 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions",
 				"Modders' Gear Toolbox",
 				"ExamineActionsAPI"
 			],
@@ -90,8 +87,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
