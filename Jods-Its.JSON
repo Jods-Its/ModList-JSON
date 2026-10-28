@@ -41,7 +41,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -87,7 +87,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -126,7 +126,7 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "Fixed for latest version of the game.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
@@ -144,14 +144,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.2.4",
 			"name": "Bountiful Foraging",
 			"displayName": "Bountiful Foraging",
 			"author": "Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-06-15",
-			"updated": "2026-07-16",
-			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/v.1.2.3/BountifulForaging.zip",
+			"updated": "2026-10-28",
+			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/v.1.2.4/BountifulForaging.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging",
 			"description": "Find food and useful materials in the wild.",
 			"tags": "",
@@ -175,12 +175,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Updated for latest version.",
+				"patchnotes": "Updated for latest version. Added Russian localization (partial)",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -228,7 +228,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -274,7 +274,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -319,7 +319,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
