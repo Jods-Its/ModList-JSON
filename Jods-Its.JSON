@@ -304,7 +304,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/NxKjE7P.jpg"
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_PHT.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
