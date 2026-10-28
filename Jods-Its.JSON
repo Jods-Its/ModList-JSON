@@ -285,6 +285,49 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.7.1",
+			"name": "MarcysPlantHarvestTweaker",
+			"displayName": "Marcy's Plant Harvest Tweaker",
+			"author": "Jods-Its",
+			"previousAuthors": "Marcy",
+			"released": "2026-10-29",
+			"updated": "2026-10-29",
+			"downloadURL": "https://github.com/Jods-Its/Marcys_PlantHarvestTweaker/releases/download/v.1.7.1/PlantHarvestTweaker.dll",
+			"modURL": "https://github.com/Jods-Its/Marcys_PlantHarvestTweaker",
+			"description": "Customize everything about plant harvesting: time, required tools, tool degreadation, yield amount. Original by Marcy.",
+			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
+			"categories": [
+				"Gameplay",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://i.imgur.com/NxKjE7P.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated for latest version.",
+				"notes": "Drop .dll in mod folder.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.58",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "1.4.4",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
