@@ -126,7 +126,7 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "Fixed for latest version of the game.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
