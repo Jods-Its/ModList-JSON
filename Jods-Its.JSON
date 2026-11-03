@@ -114,8 +114,7 @@
 				"Gameplay"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://imgur.com/9TpDA41.jpg"
@@ -133,7 +132,7 @@
 				"issues": "- No pot textures, throwing errors in console."
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
