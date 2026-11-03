@@ -130,7 +130,7 @@
 				"beta": false,
 				"patchnotes": "Fixed for latest version of the game.",
 				"notes": "Unzip the .zip, drop contents in mod folder.",
-				"issues": ""
+				"issues": "- No pot textures, throwing errors in console."
 			},
 			"testedon": {
 				"tldversion": "2.55",
