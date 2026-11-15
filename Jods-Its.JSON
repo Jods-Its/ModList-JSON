@@ -373,7 +373,7 @@
 				"PineNeedleTea",
 				"Pine Needle Tea"
 			],
-			"replaces": [PineNeedleTea]
+			"replaces": ["PineNeedleTea"]
 		},
 		{
 			"type": "mod",
