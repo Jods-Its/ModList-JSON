@@ -327,6 +327,56 @@
 		},
 		{
 			"type": "mod",
+			"version": "2.0.4",
+			"name": "MarcysPineNeedleTea",
+			"displayName": "Marcy's Pine Needle Tea",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-07-06",
+			"updated": "2026-11-15",
+			"downloadURL": "https://github.com/Jods-Its/Marcy-s-PineNeedleTea/releases/download/v.2.0.4/PineNeedleTea.zip",
+			"modURL": "https://github.com/Jods-Its/Marcy-s-PineNeedleTea",
+			"description": "Harvest pine fascicles and brew them into a tea high in Vitamin C. Everything is customizable.",
+			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Food"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/Thumb_PNT.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"PineNeedleTea",
+				"Pine Needle Tea"
+			],
+			"replaces": [PineNeedleTea]
+		},
+		{
+			"type": "mod",
 			"version": "1.4.4",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
