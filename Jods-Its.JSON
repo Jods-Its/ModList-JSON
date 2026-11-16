@@ -23,8 +23,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://i.imgur.com/4WpvfIK.png"
@@ -41,7 +40,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -67,8 +66,7 @@
 				"Gear Items"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://i.imgur.com/s4QXeLl.jpg"
@@ -87,7 +85,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -107,7 +105,7 @@
 			"updated": "2026-07-15",
 			"downloadURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery/releases/download/v.3.1.2/IndoorsGreenery.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Indoors-Greenery",
-			"description": "Make your own indoor farm and regrow plants.",
+			"description": "Make your own indoor farm and regrow plants. Some content is exclusive for TFTFT.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -132,7 +130,7 @@
 				"issues": "- No pot textures, throwing errors in console."
 			},
 			"testedon": {
-				"tldversion": "2.59",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -152,7 +150,7 @@
 			"updated": "2026-10-28",
 			"downloadURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases/download/v.1.2.4/BountifulForaging.zip",
 			"modURL": "https://github.com/Jods-Its/Jods-Bountiful-Foraging",
-			"description": "Find food and useful materials in the wild.",
+			"description": "Find food and useful materials in the wild. Some content is exclusive for TFTFT.",
 			"tags": "",
 			"categories": [
 				"Gear Items",
@@ -160,8 +158,7 @@
 				"Food"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://i.imgur.com/oYzE4vg.jpg"
@@ -179,7 +176,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -206,8 +203,7 @@
 				"Quality Of Life"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://i.imgur.com/HpYut2o.jpg"
@@ -227,7 +223,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -239,8 +235,8 @@
 		{
 			"type": "mod",
 			"version": "2.7.2",
-			"name": "Fire Pack DLC",
-			"displayName": "Fire Pack DLC",
+			"name": "FirePack",
+			"displayName": "Fire Pack",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678, WulfMarius",
 			"released": "2023-06-19",
@@ -273,7 +269,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -426,7 +422,7 @@
 			"type": "mod",
 			"version": "1.4.4",
 			"name": "CozyBlankets",
-			"displayName": "CozyBlankets",
+			"displayName": "Cozy Blankets",
 			"author": "Jods-Its",
 			"previousAuthors": "ds5678",
 			"released": "2023-06-21",
@@ -439,8 +435,7 @@
 				"Gear Items"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://i.imgur.com/nGMeJ68.jpg"
@@ -458,7 +453,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
