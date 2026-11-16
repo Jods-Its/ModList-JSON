@@ -377,6 +377,53 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.2.3",
+			"name": "MarcysBowRepair",
+			"displayName": "Marcy's Bow Repair",
+			"author": "Jods-Its",
+			"previousAuthors": "Marcy",
+			"released": "2024-03-10",
+			"updated": "2026-11-16",
+			"downloadURL": "https://github.com/Jods-Its/Marcys_BowRepair/releases/download/v1.2.3/BowRepair.dll",
+			"modURL": "https://github.com/Jods-Its/Marcys_BowRepair",
+			"description": "Makes all bows repairable, with customizable cost and location.",
+			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BR.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"Bow Repair"
+			],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "1.4.4",
 			"name": "CozyBlankets",
 			"displayName": "CozyBlankets",
