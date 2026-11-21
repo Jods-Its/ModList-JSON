@@ -250,8 +250,7 @@
 				"Gameplay"
 			],
 			"gameversion": [
-				"vanilla", 
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/Jods-Its/ModList-JSON/refs/heads/main/FPThumb.jpg"
@@ -312,7 +311,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
