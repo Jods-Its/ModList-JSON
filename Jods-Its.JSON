@@ -254,7 +254,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/Jods-Its/ModList-JSON/blob/main/FPThumb.png"
+				"https://raw.githubusercontent.com/Jods-Its/ModList-JSON/refs/heads/main/FPThumb.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
