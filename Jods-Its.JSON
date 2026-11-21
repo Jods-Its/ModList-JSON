@@ -161,7 +161,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/oYzE4vg.jpg"
+				"https://raw.githubusercontent.com/Jods-Its/ModList-JSON/refs/heads/main/BFThumb.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -206,7 +206,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/HpYut2o.jpg"
+				"https://raw.githubusercontent.com/Jods-Its/ModList-JSON/refs/heads/main/FBThumb.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -438,7 +438,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/nGMeJ68.jpg"
+				"https://raw.githubusercontent.com/Jods-Its/ModList-JSON/refs/heads/main/CBThumb.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
